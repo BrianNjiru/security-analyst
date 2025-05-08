@@ -5,4 +5,4 @@ Welcome! This portfolio showcases my hands-on cybersecurity work as I pursue a c
 ## 🔍 Contents
 - `pcap-analysis/`: Network packet capture investigations
 - `malware-analysis/`: Static analysis reports and YARA rules
-- `resume-and-cover-letter/`: Application documents
+- `threat-intelligence/`: Application documents
